@@ -1,0 +1,4 @@
+{"id":10509581,"first_name":"Testing","middle_name":"sample","last_name":"world","date_of_birth":"07-07-1999"}
+[10509581]
+10509581
+{"status":"true","data":{"first_name":"Testing","middle_name":"sample","last_name":"world","date_of_birth":"07-07-1999","TechnicalDetails":[{"id":800352,"language":["java","C#"],"yearexp":"2","lastused":"2019","st_id":"10509581"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"10509581"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"10509581"}]}}

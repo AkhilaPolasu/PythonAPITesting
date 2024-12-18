@@ -4,7 +4,7 @@ import requests
 import openpyxl
 def test_add_multiple_students():
     API_URL="http://thetestingworldapi.com/api/studentsDetails"
-    f=open("C:/Users/akhila.polasu/LERANpythonbasics/pytestlearning/Inputfiles/Addnewmultiplstudent.json","r")
+    f=open("/Inputfiles/Addnewmultiplstudent.json", "r")
     json_request = json.loads(f.read())
     print(json_request)
     wk=openpyxl.load_workbook("C:/Users/akhila.polasu/OneDrive - Calsoft Pvt Ltd/Desktop/EXELFiles/Book 6.xlsx")
